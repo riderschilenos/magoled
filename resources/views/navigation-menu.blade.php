@@ -98,7 +98,7 @@
                     <div class="w-full text-white bg-main-color block sm:hidden">
                         <div class="flex flex-col max-w-screen-xl pt-3 pb-4 md:py-0 px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
                             <div class="flex flex-row items-center my-auto content-center justify-center">
-                                <h1 class="text-xl text-center font-bold my-2">RIDERS CHILENOS</h1>
+                                <h1 class="text-xl text-center font-bold my-2">MAGO LED</h1>
                             </div>
                         </div>
                     </div>
@@ -730,7 +730,7 @@
                     <div class="w-full text-white bg-main-color block sm:hidden">
                         <div class="flex flex-col max-w-screen-xl pt-3 @can('Super admin')pb-0 @else pb-4 @endcan md:py-0 px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
                             <div class=" flex-row items-center my-auto content-center justify-center">
-                                <h1 class="text-xl text-center font-bold mt-2">RIDERS CHILENOS</h1>
+                                <h1 class="text-xl text-center font-bold mt-2">MAGO LED</h1>
                                     @livewire('socio.online-status',['type'=>'cell'])
                                 
                             </div>
@@ -1558,7 +1558,8 @@
         <div class="fixed sm:hidden top-0 bg-main-color w-full md:relative md:bg-white sm:pt-3" style="z-index: 20;">
             <div class="container mb-0 sm:mb-6" >
                 <div class="bg-main-color md:hidden">
-                    <div class="fixed top-4 left-4 md:hidden">
+                    {{-- logo smartphone --}}
+                    <div class="hidden">
                         <div class="flex-shrink-0 flex items-center">
                             <a href="{{ route('home') }}">
                                 <x-jet-application-mark class="block h-9 w-auto" />
@@ -1568,7 +1569,7 @@
                     <div class="w-full text-white bg-main-color block sm:hidden">
                         <div class="flex flex-col max-w-screen-xl pt-3 @can('Super admin')pb-0 @else pb-4 @endcan md:py-0 px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
                             <div class=" flex-row items-center my-auto content-center justify-center">
-                                <h1 class="text-xl text-center font-bold mt-2">RIDERS CHILENOS</h1>
+                                <h1 class="text-xl text-center font-bold mt-2">MAGO LED</h1>
                                     @livewire('socio.online-status',['type'=>'cell'])
                                 
                             </div>
