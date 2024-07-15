@@ -1607,7 +1607,7 @@
 
                             @endforeach  
 
-                            <a href="{{route('tiendas.index.desktop')}}" class="btn btn-danger h-10 my-auto">Tienda</a>
+                            <a href="{{route('tiendas.index.desktop')}}" class="btn bg-gray-700 rounded-lg text-white h-10 my-auto">Tienda</a>
                             
 
                         </div>
