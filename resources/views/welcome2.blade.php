@@ -11,16 +11,15 @@
     <main class="text-gray-900">
 
 
-        <section class="pt-20 md:pt-40">
+        <section class="pt-12 md:pt-12">
             <div class="container mx-auto px-8 lg:flex">
                 <div class="text-center lg:text-left lg:w-1/2">
                     <h1 class="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">Hacemos Magia Con Tu Iluminación Led</h1>
-                    <p class="text-xl lg:text-2xl mt-6 font-light">Free landing page template to promote your
-                        business startup and generate leads for the offered services
+                    <p class="text-xl lg:text-2xl mt-6 font-light">¡Bienvenidos a Mago Led, el lugar donde tus sueños de iluminación cobran vida! Aquí podrás cotizar tu presupuesto a medida para transformar tu discoteca, bar o cualquier espacio en un verdadero espectáculo de luces LED. Pero eso no es todo, también te invitamos a unirte a nuestro exclusivo curso de magos, donde aprenderás todos los secretos y técnicas para crear instalaciones luminosas increíbles de la mano de los mejores expertos en Chile. ¡No esperes más para darle el toque mágico a tu negocio!
                     </p>
                     <p class="mt-8 md:mt-12">
                         <button type="button"
-                            class=" py-4 px-12 bg-teal-500 hover:bg-teal-600 rounded text-white">Get Started</button>
+                            class=" py-4 px-12 bg-teal-500 hover:bg-teal-600 rounded text-white">Comenzar</button>
                     </p>
                     <p class="mt-4 text-gray-600">Sed fermentum felis ut cursu
                     </p>
@@ -403,7 +402,8 @@
                 <div class="lg:w-1/2">
                     <div class="lg:pr-32 xl:pr-48">
                         <h3 class="text-3xl font-semibold leading-tight">Market Analysis</h3>
-                        <p class="mt-8 text-xl font-light leading-relaxed">¡Bienvenidos a Mago Led, el lugar donde tus sueños de iluminación cobran vida! Aquí podrás cotizar tu presupuesto a medida para transformar tu discoteca, bar o cualquier espacio en un verdadero espectáculo de luces LED. Pero eso no es todo, también te invitamos a unirte a nuestro exclusivo curso de magos, donde aprenderás todos los secretos y técnicas para crear instalaciones luminosas increíbles de la mano de los mejores expertos en Chile. ¡No esperes más para darle el toque mágico a tu negocio!
+                        <p class="mt-8 text-xl font-light leading-relaxed">Our team of enthusiastic marketers
+                            will analyse and evaluate how your company stacks against the closest competitors
                         </p>
                     </div>
                 </div>
