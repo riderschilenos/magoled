@@ -723,10 +723,13 @@
                 <div class="bg-main-color md:hidden">
                     
                     {{-- logo smartphone --}}
-                    <div class="hidden">
+                    <div class="fixed top-4 left-4 md:hidden">
                         <div class="flex-shrink-0 flex items-center">
                             <a href="{{ route('home') }}">
-                                <x-jet-application-mark class="block h-9 w-auto" />
+                                <figure>
+                                    <img class="block w-auto ml-4 h-12 object-contain" src="{{asset('img/ledgif.gif')}}" alt="" style='z-index: 100 ; '>
+                                </figure>
+                                  
                             </a>
                         </div>
                     </div>
@@ -1504,10 +1507,13 @@
             <div class="container mb-0 sm:mb-6" >
                 <div class="bg-main-color md:hidden">
                     {{-- logo smartphone --}}
-                    <div class="hidden">
+                    <div class="fixed top-4 left-4 md:hidden">
                         <div class="flex-shrink-0 flex items-center">
                             <a href="{{ route('home') }}">
-                                <x-jet-application-mark class="block h-9 w-auto" />
+                                <figure>
+                                    <img class="block w-auto ml-4 h-12 object-contain" src="{{asset('img/ledgif.gif')}}" alt="" style='z-index: 100 ; '>
+                                </figure>
+                                  
                             </a>
                         </div>
                     </div>
