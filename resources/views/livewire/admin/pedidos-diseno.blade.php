@@ -670,7 +670,7 @@
        // Enable pusher logging - don't include this in production
        Pusher.logToConsole = true;
  
-       var pusher = new Pusher('740f58acc369e3569e43', {
+       var pusher = new Pusher('4d3ca11564f1836a8e92', {
           cluster: 'mt1'
        });
  

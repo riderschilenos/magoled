@@ -124,7 +124,7 @@ class Pos extends Component
             'useTLS' => true
           );
           $pusher = new Pusher(
-            '740f58acc369e3569e43',
+            '4d3ca11564f1836a8e92',
             'b215d983fab38ddb0e78',
             '1791533',
             $options
