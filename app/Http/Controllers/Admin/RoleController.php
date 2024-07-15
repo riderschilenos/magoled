@@ -10,7 +10,7 @@ use Spatie\Permission\Models\Permission;
 
 class RoleController extends Controller
 {   
-
+    
     public function __construct()
     {
         $this->middleware('can:Listar Rol')->only('index');
