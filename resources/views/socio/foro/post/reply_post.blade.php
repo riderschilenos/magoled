@@ -2,7 +2,7 @@
 
     <x-slot name="tl">
             
-        <title>Foros | RidersChilenos</title>
+        <title>Foros | MagoLed</title>
         
         
     </x-slot>
