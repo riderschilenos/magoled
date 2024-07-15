@@ -671,7 +671,7 @@
        Pusher.logToConsole = true;
  
        var pusher = new Pusher('4d3ca11564f1836a8e92', {
-          cluster: 'mt1'
+          cluster: 'us2'
        });
  
        var channel = pusher.subscribe('countpedidos-channel');
