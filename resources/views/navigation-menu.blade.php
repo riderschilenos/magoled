@@ -88,7 +88,8 @@
         <div class="fixed sm:hidden top-0 bg-main-color w-full md:relative md:bg-white sm:pt-3" style="z-index: 20;">
             <div class="container mb-0 sm:mb-6" >
                 <div class="bg-main-color md:hidden">
-                    <div class="fixed top-4 left-4 md:hidden">
+
+                    <div class="hidden">
                         <div class="flex-shrink-0 flex items-center">
                             <a href="{{ route('home') }}">
                                 <x-jet-application-mark class="block h-9 w-auto" />
