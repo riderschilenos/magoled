@@ -403,8 +403,7 @@
                 <div class="lg:w-1/2">
                     <div class="lg:pr-32 xl:pr-48">
                         <h3 class="text-3xl font-semibold leading-tight">Market Analysis</h3>
-                        <p class="mt-8 text-xl font-light leading-relaxed">Our team of enthusiastic marketers
-                            will analyse and evaluate how your company stacks against the closest competitors
+                        <p class="mt-8 text-xl font-light leading-relaxed">¡Bienvenidos a Mago Led, el lugar donde tus sueños de iluminación cobran vida! Aquí podrás cotizar tu presupuesto a medida para transformar tu discoteca, bar o cualquier espacio en un verdadero espectáculo de luces LED. Pero eso no es todo, también te invitamos a unirte a nuestro exclusivo curso de magos, donde aprenderás todos los secretos y técnicas para crear instalaciones luminosas increíbles de la mano de los mejores expertos en Chile. ¡No esperes más para darle el toque mágico a tu negocio!
                         </p>
                     </div>
                 </div>
