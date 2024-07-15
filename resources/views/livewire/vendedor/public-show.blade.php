@@ -18,7 +18,7 @@
                     @if ($store)
                         {{$store->nombre}}
                     @else
-                        RidersChilenos
+                        MagoLed
                     @endif</span>
                  </a>
                  <form action="#" method="GET" class="hidden lg:block lg:pl-32">
