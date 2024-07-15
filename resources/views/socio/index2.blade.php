@@ -21,8 +21,9 @@
                     <div class="px-4 py-2 cursor-pointer hover:underline"  >Eventos</div>
                 </a>
             
-                <div class="px-4 py-2 cursor-pointer hover:underline text-gray-900" @click="user = false; home = false; video = true; socio = false; evento = false; registro = false; vendedor = false; base = false" >Videos</div>
-             
+                <div class="px-4 py-2 cursor-pointer hover:underline text-gray-900" @click="user = false; home = false; video = true; socio = false; evento = false; registro = false; vendedor = false; base = false" >Proyectos</div>
+                <div class="px-4 py-2 cursor-pointer hover:underline" @click="user = false; novedades = true; home = false; socio = false; evento = false; registro = false; vendedor = false; base = false" >Novedades</div>
+            
             <!-- Agrega más categorías aquí -->
             </div>
         </div>
