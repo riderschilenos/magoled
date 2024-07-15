@@ -78,7 +78,7 @@
         <style>
             
             :root {
-                --main-color: #1b066e;
+                --main-color: #0000C6;
                 --rider-color: #314780;
             }
         
