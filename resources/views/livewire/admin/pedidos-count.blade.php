@@ -350,8 +350,8 @@
       // Enable pusher logging - don't include this in production
       Pusher.logToConsole = true;
 
-      var pusher = new Pusher('4d3ca11564f1836a8e92', {
-         cluster: 'us2'
+      var pusher = new Pusher('72cc414c47d204994d9d', {
+         cluster: 'mt1'
       });
 
       var channel = pusher.subscribe('countpedidos-channel');
