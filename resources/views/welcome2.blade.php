@@ -15,7 +15,7 @@
             <div class="container mx-auto px-8 lg:flex items-center">
                 
                 <div class="text-center lg:text-left lg:w-full ">
-                    <div  class="px-2 md:px-10 pb-20 pt-10 mx-1 md:mx-4 my-4" style="background-color: rgb(0,0,0,0.5);">
+                    <div  class="px-2 md:px-10 pb-20 pt-10 mx-1 md:mx-4 mb-4" style="background-color: rgb(0,0,0,0.5);">
                         <h1 class="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">Hacemos Magia Con Tu Iluminación Led</h1>
                         <p class="text-xl lg:text-2xl mt-6 font-light">¡Bienvenidos a Mago Led, el lugar donde tus sueños de iluminación cobran vida! Aquí podrás cotizar tu presupuesto a medida para transformar tu discoteca, bar o cualquier espacio en un verdadero espectáculo de luces LED. Pero eso no es todo, también te invitamos a unirte a nuestro exclusivo curso de magos, donde aprenderás todos los secretos y técnicas para crear instalaciones luminosas increíbles de la mano de los mejores expertos en Chile. ¡No esperes más para darle el toque mágico a tu negocio!
                         </p>
