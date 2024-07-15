@@ -642,7 +642,7 @@
                                 </div>
                                 <div class="col-span-2 sm:col-span-1">
                                     <h1 class="text-center my-2 font-bold">¡Hola!</h1>
-                                    <h1 class="text-center my-2 font-bold">Bienvenidos a Riders Chilenos</h1>
+                                    <h1 class="text-center my-2 font-bold">Bienvenidos a MagoLed</h1>
                                     <div class="flex justify-center w-full">
 
                                         <a href="{{route('foros.index')}}" class="w-full mx-2 whitespace-nowrap sm:hidden">
@@ -672,7 +672,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-span-5 sm:col-span-3 flex justify-center items-center">
+                    <div class="col-span-5 sm:col-span-3 flex justify-center items-center hidden">
                         <div class="px-4 py-2 bg-white">
                             <a href="{{route('socio.ranking.strava')}}">
                                 @livewire('socio.strava-count-total')
