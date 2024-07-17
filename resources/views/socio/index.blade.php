@@ -2,7 +2,7 @@
 
     <x-slot name="tl">
             
-        <title>Lista de Riders</title>
+        <title>Lista de Magos</title>
         
         
     </x-slot>
