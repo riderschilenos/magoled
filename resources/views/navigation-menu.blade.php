@@ -12,6 +12,11 @@
 
     ]*/
     ,[   
+        'name'=>'Cursos',
+        'route'=>route('series.index'),
+        'active'=>request()->routeIs('series.*')
+
+    ],[   
         'name'=>'Magos',
         'route'=>route('socio.index'),
         'active'=>request()->routeIs('socio.*')
